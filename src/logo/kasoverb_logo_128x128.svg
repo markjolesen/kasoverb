@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width='128px' height='128px' viewBox='0 0 128 128'>
+
+<!--
+KasoVerb Logo 128x128
+
+  Copyright (c) 2011-2020 Mark J.Olesen
+
+KasoVerb and the KasoVerb logo are trademarks of Mark J. Olesen
+(markjolesen.com) aka ``markjolesen''
+
+The KasoVerb name and logo may only be used in accordance with Mark
+J. Olesen Trademark Policy. Full text of the trademark policy can
+be found in the KasoVerb sofware distribution package under the
+following path:
+
+  ${KASOVERB_HOME}/licenses/kasoverb.tm
+
+This logo can be found in the KasoVerb sofware distribution package
+under the following path:
+
+  ${KASOVERB_HOME}/src/kv3_logo/kasoverb_logo_128x128.svg
+-->
+
+  <!-- top -->
+  <line x1='0' y1='48' x2='128' y2='48' style='stroke-width:16; stroke: black;'/>
+
+  <!-- slant to left -->
+  <line x1='80' y1='48' x2='0' y2='128' style='stroke-width:16; stroke: black;'/>
+
+  <!-- slant to right -->
+  <line x1='48' y1='48' x2='128' y2='128' style='stroke-width:16; stroke: black;'/>
+
+  <!-- peg left -->
+  <line x1='0' y1='48' x2='0' y2='128' style='stroke-width:16; stroke: black;'/>
+
+  <!-- peg right -->
+  <line x1='128' y1='48' x2='128' y2='128' style='stroke-width:16; stroke: black;'/>
+
+  <!-- peg left middle -->
+  <line x1='25.6' y1='48' x2='25.6' y2='102.4' style='stroke-width:16; stroke: black;'/>
+
+  <!-- peg right middle -->
+  <line x1='102.4' y1='48' x2='102.4' y2='102.4' style='stroke-width:16; stroke: black;'/>
+
+</svg>

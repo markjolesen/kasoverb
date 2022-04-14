@@ -1,0 +1,13 @@
+KasoVerb Logo
+
+${KASOVERB_HOME}/package/windows/kasoverb.ico
+
+  Copyright (c) 2011-2020 Mark J.Olesen
+
+The KasoVerb name and logo may only be used in accordance with our
+Trademark Policy.  Full text of the trademark policy is located
+in the file '${KASOVERB_HOME}/licenses/kasoverb.tm'
+
+KasoVerb SVG files are located in '${KASOVERB_HOME}/src/kv3_logo/'
+
+GNU Gimp is the tool used to convert the original SVG to PNG format.
